@@ -71,3 +71,9 @@
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ibrahim_Bagalwa) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/IbrahimBagalwa) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:bagmurhulaibrahim@gmail.com) [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](#) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](#) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](#)
 ___
 </p>
+
+## ❤ Views and Followers
+<a href="https://github.com/IbrahimBagalwa/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=IbrahimBagalwa">
+</a>
+<a href="https://github.com/IbrahimBagalwa?tab=followers"><img src="https://img.shields.io/github/followers/IbrahimBagalwa?label=Followers&style=social" alt="GitHub Badge"></a>
