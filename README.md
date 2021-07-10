@@ -50,3 +50,13 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bagalwa Ibrahim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBagalwa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimBagalwa&show_icons=true&theme=dark&hide_title=true)](https://github.com/IbrahimBagalwa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimBagalwa&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/IbrahimBagalwa)|![IbrahimBagalwa](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBagalwa&theme=dark)
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
