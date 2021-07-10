@@ -19,3 +19,5 @@
 - 📫 How to reach me **bagmurhulaibrahim@gmail.com**
 
 - ⚡ Fun fact **I play games.**
+
+## 🚀 Languages and Tools:
