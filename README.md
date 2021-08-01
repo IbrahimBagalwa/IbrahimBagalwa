@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-[![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=IbrahimBagalwa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/Ibrahimbagalwa/github-readme-activity-graph)
+[![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=IbrahimBagalwa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/IbrahimBagalwa/github-readme-activity-graph)
 <br/>
 <br/>
 
