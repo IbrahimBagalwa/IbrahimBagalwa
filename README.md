@@ -11,7 +11,8 @@
   
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🙋‍ Addicted to Programming
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
