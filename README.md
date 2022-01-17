@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🙋‍ Addicted to Programming
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ibrahimbagalwa.github.io/Portfolio/)**
 
 - 📫 How to reach me **bagmurhulaibrahim@gmail.com**
 
