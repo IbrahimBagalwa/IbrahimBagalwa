@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ibrahim Bagalwa</h1>
-[![IbrahimBagalwa/gitartwork](https://github.com/jasineri/gitartwork/blob/main/gitartwork.svg)](https://github.com/jasineri/gitartwork/)
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
 
 
