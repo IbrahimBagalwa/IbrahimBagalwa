@@ -22,7 +22,7 @@
 
 <h1 align="center">Achievement 🏆</h1>
 <p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=IbrahimBagalwa&theme=onedark">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=IbrahimBagalwa&theme=onedark&title=Stars,Followers">
 </p>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 ## 🚀 Languages and Tools:
