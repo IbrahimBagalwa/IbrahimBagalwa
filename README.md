@@ -50,6 +50,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bagalwa Ibrahim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBagalwa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p> -->
+<h1 align="center">Achievement 🏆</h1>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=IbrahimBagalwa&theme=onestar" /></a> </p>
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
