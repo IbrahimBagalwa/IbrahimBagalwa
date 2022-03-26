@@ -22,9 +22,9 @@
 
 <h1 align="center">Achievement 🏆</h1>
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+  <img width="660" src="https://github.com/IbrahimBagalwa/github-profile-trophy">
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
