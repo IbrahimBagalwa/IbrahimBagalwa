@@ -21,7 +21,9 @@
 - ⚡ Fun fact **I play games.**
 
 <h1 align="center">Achievement 🏆</h1>
-<p align="center"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=IbrahimBagalwa&theme=onedark)](https://github.com/IbrahimBagalwa/github-profile-trophy)" /></a> </p>
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+</p>
 
 ## 🚀 Languages and Tools:
 
