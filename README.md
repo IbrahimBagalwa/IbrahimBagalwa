@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=%288CB8FF&vCenter=true&width=800&height=40&lines=Hello+|+Hola+|+Bonjour+|+Привет+|+你好+|+こんにちは+|+नमस्ते+|+Jambo+;+Welcome+to+my+Github+profile+I'm+Ibrahim+Bagalwa+🌍 )](https://git.io/typing-svg)
 <!-- | Hola | Olá | Bonjour | Привет | 你好 | こんにちは | أهلا | नमस्ते Jambo-->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Ibrahim Bagalwa</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ibrahim Bagalwa</h1>
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
 
 
