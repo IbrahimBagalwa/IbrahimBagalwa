@@ -60,17 +60,11 @@
 </p> -->
 
 
-<!-- |My github statistics|My languages|Streaks|
+|My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimBagalwa&show_icons=true&theme=dark&hide_title=true)](https://github.com/IbrahimBagalwa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimBagalwa&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/IbrahimBagalwa)|![IbrahimBagalwa](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBagalwa&theme=dark) -->
-<h1 align="center">Github Status 📊</h1>
-<p align="center">
-  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IbrahimBagalwa&theme=github_dark" />
-</p>
+|[![descholar's github stats](https://github-readme-stats.vercel.app/api?username=IbrahimBagalwa&show_icons=true&theme=dark&hide_title=true)](https://github.com/IbrahimBagalwa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimBagalwa&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/IbrahimBagalwa)|![Ibrahim-Bagalwa](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBagalwa&theme=dark)
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
 <br/>
